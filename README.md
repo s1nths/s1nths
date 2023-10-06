@@ -1,7 +1,7 @@
 
 ![s1nths Banner](https://github.com/s1nths/s1nths/assets/146001449/0e941c77-bd17-4de8-bae3-56a3e94fb3c4)
 )
-](https://github.com/s1nths/s1nths/assets/146001449/3e5d8a57-3a27-46fd-b589-36b6916fdef1)
+]
 )
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey, soy s1nths👋</h2>
