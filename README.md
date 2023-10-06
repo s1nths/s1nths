@@ -10,7 +10,7 @@
 Mi nombre es Alex aunque desde siempre uso s1nths en internet
 .\
 💡 &nbsp;.\
-🎓 &nbsp;Estoy estudiando Desarroyo de aplicaciones web en IES Luis Vives.\
+🎓 &nbsp;Estoy estudiando Desarroyo De Aplicaciones web en IES Luis Vives.\
 🌱 &nbsp;.\
 ✍️ &nbsp;Me gusta el tema de inversiones y coches.\
 💬 &nbsp;.\
