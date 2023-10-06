@@ -6,8 +6,8 @@
 
 <!-- ## 👋 &nbsp;Hey, soy s1nths👋 -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
+### 👨🏻‍💻 &nbsp;Sobre mi
+Mi nombre es Alex aunque desde siempre uso s1nths en internet
 💡 &nbsp;.\
 🎓 &nbsp;Estoy estudiando Desarroyo de aplicaciones web en IES Luis Vives.\
 🌱 &nbsp;.\
