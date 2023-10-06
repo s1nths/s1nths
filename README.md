@@ -16,7 +16,7 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 ✉️ &nbsp;Puedes contactarme a traves de este email.\
 📄 &nbsp;!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://github-production-user-asset-6210df.s3.amazonaws.com/146001449/273294152-3e5d8a57-3a27-46fd-b589-36b6916fdef1.png)" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
