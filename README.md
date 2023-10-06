@@ -1,5 +1,6 @@
 
-![s1nths Banner](![https://github-production-user-asset-6210df.s3.amazonaws.com/146001449/273294152-3e5d8a57-3a27-46fd-b589-36b6916fdef1.png](https://github.com/s1nths/s1nths/assets/146001449/3e5d8a57-3a27-46fd-b589-36b6916fdef1)
+![s1nths Banner](![![banner](https://github.com/s1nths/s1nths/assets/146001449/a873e0c1-12c8-4884-9ca9-4e2bbe171164)
+](https://github.com/s1nths/s1nths/assets/146001449/3e5d8a57-3a27-46fd-b589-36b6916fdef1)
 )
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey, soy s1nths👋</h2>
