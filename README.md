@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![s1nths Banner](![octocat-1696614739148](https://github.com/s1nths/s1nths/assets/146001449/3e5d8a57-3a27-46fd-b589-36b6916fdef1)
 )
 
