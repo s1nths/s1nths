@@ -1,5 +1,6 @@
 
-![s1nths Banner](![![banner](https://github.com/s1nths/s1nths/assets/146001449/a873e0c1-12c8-4884-9ca9-4e2bbe171164)
+![s1nths Banner](![![banner](![banner](https://github.com/s1nths/s1nths/assets/146001449/0e941c77-bd17-4de8-bae3-56a3e94fb3c4)
+)
 ](https://github.com/s1nths/s1nths/assets/146001449/3e5d8a57-3a27-46fd-b589-36b6916fdef1)
 )
 
