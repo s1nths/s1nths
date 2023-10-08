@@ -2,7 +2,7 @@
 ![s1nths Banner](https://github.com/s1nths/s1nths/assets/146001449/0e941c77-bd17-4de8-bae3-56a3e94fb3c4)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey, soy s1nths👋</h2>
+<h2>Hey, soy s1nths👋</h2>
 
 
 
@@ -11,8 +11,8 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 .\
 🎓 &nbsp;Estoy estudiando Desarroyo De Aplicaciones web en IES Luis Vives.\
 ✍️ &nbsp;Me gusta los videojuegos y soy un apasionado de los coches.\
-✉️ &nbsp;Puedes contactarme a traves de este email.\
-📄 &nbsp;!He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
+✉️ &nbsp;Puedes contactarme a traves de este email Ruano.arr@gmail.com.\
+📄 &nbsp;He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
 
 ### 🛠 &nbsp;Conocimientos
 
