@@ -12,7 +12,9 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 🎓 &nbsp;Estoy estudiando Desarroyo De Aplicaciones web en IES Luis Vives.\
 ✍️ &nbsp;Me gusta los videojuegos y soy un apasionado de los coches.\
 ✉️ &nbsp;Puedes contactarme a traves de este email Ruano.arr@gmail.com.\
-📄 &nbsp;He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
+📄 &nbsp;He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos, 
+tengo conocimientos sobre Windows server, ubuntu server, kali linux, windows 10, ubuntu, wireshark, 
+cisco packet tracker, filezilla, excel, libre office, power point, word, 
 
 ### 🛠 &nbsp;Conocimientos
 
