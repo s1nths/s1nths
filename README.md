@@ -17,6 +17,7 @@ tengo conocimientos sobre Windows server, ubuntu server, kali linux, windows 10,
 cisco packet tracker, filezilla, excel, libre office, power point, word.
 
 Un trabajo sobre kali https://github.com/s1nths/s1nths/blob/main/Kali%20Alex%20Arroyo.pdf
+
 Un trabajo sobre filezilla https://github.com/s1nths/s1nths/blob/main/topo%20filezilla.pdf
 
 ### 🛠 &nbsp;Conocimientos
