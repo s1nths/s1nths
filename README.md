@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey, soy s1nths👋</h2>
 
-<!-- ## 👋 &nbsp;Hey, soy s1nths👋 -->
+
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 Mi nombre es Alex aunque desde siempre uso s1nths en internet
