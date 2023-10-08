@@ -10,7 +10,7 @@
 Mi nombre es Alex aunque desde siempre uso s1nths en internet
 .\
 🎓 &nbsp;Estoy estudiando Desarroyo De Aplicaciones web en IES Luis Vives.\
-✍️ &nbsp;Me gusta el tema de inversiones y coches.\
+✍️ &nbsp;Me gusta los videojuegos y soy un apasionado de los coches.\
 ✉️ &nbsp;Puedes contactarme a traves de este email.\
 📄 &nbsp;!He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
 
