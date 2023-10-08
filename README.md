@@ -14,8 +14,6 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 ✉️ &nbsp;Puedes contactarme a traves de este email.\
 📄 &nbsp;!He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
 
-![Mi Octogato](https://github.com/s1nths/s1nths/blob/main/octocat-1696617238259.png)
-
 ### 🛠 &nbsp;Conocimientos
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,20 +24,4 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-
-
-<!--
-**s1nths/s1nths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Mi Octogato](https://github.com/s1nths/s1nths/blob/main/octocat-1696617238259.png)
