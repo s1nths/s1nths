@@ -14,7 +14,7 @@ Mi nombre es Alex aunque desde siempre uso s1nths en internet
 ✉️ &nbsp;Puedes contactarme a traves de este email.\
 📄 &nbsp;!He hecho practicas de FTC en EOLOS trabajando en Apex Oracle sobre SQL y base de datos.  
 
-<img src="(https://github-production-user-asset-6210df.s3.amazonaws.com/146001449/273294152-3e5d8a57-3a27-46fd-b589-36b6916fdef1.png]"/>
+<img src="(https://mail.google.com/mail/u/0?ui=2&ik=da56a79e5f&attid=0.1&permmsgid=msg-a:r6240800763902237439&th=18b1070fbba75317&view=att&disp=safe&realattid=18b1070ea7937e3678e1)"/>
 
 ### 🛠 &nbsp;Conocimientos
 
